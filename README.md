@@ -1,3 +1,6 @@
+![Course Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blue)
+
 # 📈 SQL for Data Analytics — Portfolio
 
 > 🎯 **Цель репозитория:** Демонстрация навыков работы с данными: от извлечения и очистки до расчёта продуктовых метрик и подготовки датасетов для визуализации.
