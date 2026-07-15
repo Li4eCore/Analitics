@@ -48,7 +48,7 @@
 
 ## Структура репозитория
 
-'''
+```
 sql-learning/
 ├── 01-basics/              # Введение, типы данных, первые SELECT, порядок выполнения
 ├── 02-joins-sets/          # Все типы JOIN, UNION, INTERSECT, EXCEPT
@@ -58,7 +58,7 @@ sql-learning/
 ├── 06-advanced-db/         # VIEW, функции, триггеры, нормализация (теория)
 ├── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
 └── README.md
-'''
+```
 
 ---
 
@@ -72,8 +72,7 @@ sql-learning/
 
 **Шпаргалки:**
 - [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
-- [Порядок выполнения запроса](sql-learning/docs/sql_execution_order.md)
-- [Порядок выполнения — краткий скелет](sql-learning/docs/sql_execution_skeleton.md)
+- [Порядок выполнения запроса](sql-learning/docs/sql_cheatsheet.md)
 - [Схема БД Nordwind](sql-learning/docs/nordwind_schema.md)
 
 ---
