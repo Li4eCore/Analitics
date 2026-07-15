@@ -48,7 +48,7 @@
 
 ## Структура репозитория
 
-'''
+"""
 sql-learning/
 ├── 01-basics/              # Введение, типы данных, первые SELECT, порядок выполнения
 ├── 02-joins-sets/          # Все типы JOIN, UNION, INTERSECT, EXCEPT
@@ -58,11 +58,11 @@ sql-learning/
 ├── 06-advanced-db/         # VIEW, функции, триггеры, нормализация (теория)
 ├── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
 └── README.md
-'''
+"""
 
 ### SQL
-- [Базовые SELECT-запросы](sql-learning/01_basics/01_basic_select_queries.md)
-- [JOIN и объединение таблиц](sql-learning/02_joins-sets/02_joins_and_unions.md)
+- [Базовые SELECT-запросы](sql-learning/01_basics/)
+- [JOIN и объединение таблиц](sql-learning/02_joins-sets/)
 - [Функции и логика](sql-learning/03_functions-logic/) — *в процессе*
 - [DDL/DML](sql-learning/04_ddl-dml/) — *в процессе*
 - [Оконные функции](sql-learning/05_window-functions/) — *в процессе*
