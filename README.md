@@ -72,8 +72,7 @@ sql-learning/
 
 **Шпаргалки:**
 - [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
-- [Порядок выполнения запроса](sql-learning/docs/sql_execution_order.md)
-- [Порядок выполнения — краткий скелет](sql-learning/docs/sql_execution_skeleton.md)
+- [Порядок выполнения запроса](sql-learning/docs/sql_cheatsheet.md)
 - [Схема БД Nordwind](sql-learning/docs/nordwind_schema.md)
 
 ---
