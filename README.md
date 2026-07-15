@@ -49,6 +49,7 @@
 ## Структура репозитория
 
 ```
+sql-learning/
 ├── 01-basics/              # Введение, типы данных, первые SELECT, порядок выполнения
 ├── 02-joins-sets/          # Все типы JOIN, UNION, INTERSECT, EXCEPT
 ├── 03-functions-logic/     # Строковые/числовые/дата функции, CASE, CTE, подзапросы
