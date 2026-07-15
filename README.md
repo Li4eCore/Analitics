@@ -60,6 +60,8 @@ sql-learning/
 └── README.md
 """
 
+---
+
 ### SQL
 - [Базовые SELECT-запросы](sql-learning/01_basics/)
 - [JOIN и объединение таблиц](sql-learning/02_joins-sets/)
