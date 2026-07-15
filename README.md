@@ -65,7 +65,7 @@ sql-learning/
 ### SQL
 - [Базовые SELECT-запросы](sql-learning/01_basics/)
 - [JOIN и объединение таблиц](sql-learning/02_joins-sets/)
-- [Функции и логика](sql-learning/03_functions-logic/) — *в процессе*
+- [Функции и логика](sql-learning/03_functions-logic/)
 - [DDL/DML](sql-learning/04_ddl-dml/) — *в процессе*
 - [Оконные функции](sql-learning/05_window-functions/) — *в процессе*
 - [Продвинутые темы БД](sql-learning/06_advanced-db/) — *в процессе*
