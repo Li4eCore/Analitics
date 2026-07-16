@@ -73,6 +73,7 @@ README.md
 - [Порядок выполнения запроса](sql-learning/docs/sql_cheatsheet.md)
 - [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
 - [ABC-анализ через оконные функции (разбор из курса)](sql-learning/docs/abc_analysis_cheatsheet.md)
+- [XYZ-анализ через коэффициент вариации (разбор из курса)](sql-learning/docs/xyz_analysis_cheatsheet.md)
 
 ---
 
