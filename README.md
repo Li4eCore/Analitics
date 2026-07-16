@@ -68,7 +68,6 @@ sql-learning/
 - [Функции и логика](sql-learning/03_functions-logic/)
 - [DDL/DML](sql-learning/04_ddl-dml/)
 - [Оконные функции](sql-learning/05_window-functions/)
-- [Продвинутые темы БД](sql-learning/06_advanced-db/) — *в процессе*
 
 **Шпаргалки:**
 - [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
