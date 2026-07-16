@@ -50,12 +50,11 @@
 
 ```
 sql-learning/
-├── 01-basics/              # Введение, типы данных, первые SELECT, порядок выполнения
-├── 02-joins-sets/          # Все типы JOIN, UNION, INTERSECT, EXCEPT
-├── 03-functions-logic/     # Строковые/числовые/дата функции, CASE, CTE, подзапросы
-├── 04-ddl-dml/             # CREATE, ALTER, INSERT, UPDATE, DELETE, CONSTRAINTS
-├── 05-window-functions/    # Оконные функции: фреймы, ранжирование, смещение
-├── 06-advanced-db/         # VIEW, функции, триггеры, нормализация (теория)
+├── 01_basics/              # Введение, типы данных, первые SELECT, порядок выполнения
+├── 02_joins-sets/          # Все типы JOIN, UNION, INTERSECT, EXCEPT
+├── 03_functions-logic/     # Строковые/числовые/дата функции, CASE, CTE, подзапросы
+├── 04_ddl-dml/             # CREATE, ALTER, INSERT, UPDATE, DELETE, CONSTRAINTS
+├── 05_window-functions/    # Оконные функции: фреймы, ранжирование, смещение
 └── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
 README.md
 ```
@@ -70,9 +69,10 @@ README.md
 - [Оконные функции](sql-learning/05_window-functions/)
 
 **Шпаргалки:**
-- [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
-- [Порядок выполнения запроса](sql-learning/docs/sql_cheatsheet.md)
 - [Схема БД Nordwind](sql-learning/docs/nordwind_schema.md)
+- [Порядок выполнения запроса](sql-learning/docs/sql_cheatsheet.md)
+- [Функции SQL: назначение, синтаксис, пример](sql-learning/docs/sql_functions_cheatsheet.md)
+- [ABC-анализ через оконные функции (разбор из курса)](sql-learning/docs/abc_analysis_cheatsheet.md)
 
 ---
 
