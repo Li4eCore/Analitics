@@ -56,7 +56,7 @@ sql-learning/
 ├── 04-ddl-dml/             # CREATE, ALTER, INSERT, UPDATE, DELETE, CONSTRAINTS
 ├── 05-window-functions/    # Оконные функции: фреймы, ранжирование, смещение
 ├── 06-advanced-db/         # VIEW, функции, триггеры, нормализация (теория)
-├── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
+└── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
 README.md
 ```
 
