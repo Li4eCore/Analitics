@@ -56,6 +56,8 @@ sql-learning/
 ├── 04_ddl-dml/             # CREATE, ALTER, INSERT, UPDATE, DELETE, CONSTRAINTS
 ├── 05_window-functions/    # Оконные функции: фреймы, ранжирование, смещение
 └── docs/                   # Шпаргалки, схемы порядка выполнения, конспекты
+power-bi-learning/
+└── 01_etl-power-query/    # Подключение источников, преобразования, календарь, Group By
 README.md
 ```
 
@@ -75,6 +77,10 @@ README.md
 - [ABC-анализ через оконные функции (разбор из курса)](sql-learning/docs/abc_analysis_cheatsheet.md)
 - [XYZ-анализ через коэффициент вариации (разбор из курса)](sql-learning/docs/xyz_analysis_cheatsheet.md)
 - [Комбинированный ABC-XYZ анализ и VIEW (разбор из курса)](sql-learning/docs/abc_xyz_combined_cheatsheet.md)
+
+### Power BI
+
+- [ETL-процессы: подключение источников, Power Query](power-bi-learning/01_etl-power-query/03_etl_power_query.md)
 
 ---
 
