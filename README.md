@@ -1,9 +1,8 @@
 # Путь в аналитику: SQL + Power BI
 
+# SQL: от основ до продвинутого уровня
 ![Course Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blue)
-
-# SQL: от основ до продвинутого уровня
 
 **Итоговый уровень:** уверенная база для аналитических запросов — от простого SELECT
 до оконных функций и объединения запросов. Репозиторий содержит структурированные
