@@ -1,4 +1,4 @@
-# SQL + Power BI
+# Путь в аналитику: SQL + Power BI
 
 ![Course Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blue)
