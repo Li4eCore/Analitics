@@ -80,6 +80,7 @@ README.md
 - [XYZ-анализ через коэффициент вариации (разбор из курса)](sql-learning/docs/xyz_analysis_cheatsheet.md)
 - [Комбинированный ABC-XYZ анализ и VIEW (разбор из курса)](sql-learning/docs/abc_xyz_combined_cheatsheet.md)
 
+---
 # Microsoft Power BI, Power Query, DAX
 
 - [ETL-процессы: подключение источников, Power Query](power-bi-learning/01_etl-power-query/03_etl_power_query.md)
