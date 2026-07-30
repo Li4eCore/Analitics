@@ -85,6 +85,7 @@ README.md
 ![Power BI](https://img.shields.io/badge/Power%20BI-Power%20Query%20%7C%20DAX-yellow)
 
 - [ETL-процессы: подключение источников, Power Query](power-bi-learning/01_etl-power-query/etl_power_query.md)
+- [Модель данных: связи, кардинальность, фильтрация](power-bi-learning/02_data-model/02_data_model.md)
 
 ---
 
